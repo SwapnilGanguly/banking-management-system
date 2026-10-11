@@ -1,0 +1,7 @@
+# compiled binaries
+/server
+/client
+*.o
+
+# runtime bank data
+/data/
